@@ -1,2 +1,5 @@
 Sentiment Analysis on IMDB
 3 Methods
+CBOW
+RNN
+ANN
